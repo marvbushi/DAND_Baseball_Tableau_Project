@@ -4,7 +4,7 @@ For this project, I create a data visualization using Tableau that tells a story
 
 > Version 1 - https://public.tableau.com/profile/marco4645#!/vizhome/DANDBaseballTableau/BaseballTableauStory
 
-> Version 2 - 
+> Version 2 - https://public.tableau.com/profile/marco4645#!/vizhome/DANDBaseballTableauFinal/BaseballTableauStory
 
 ### Summary
 In this project, I explored and analyzed the relationships between variables, such as, homeruns, weight, height, batting average, and handedness. The dataset contain 1,157 baseball players. The dataset was provided by Udacity.
